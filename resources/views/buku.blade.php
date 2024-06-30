@@ -14,7 +14,7 @@
         <section class="content-header">
             <h1>Form Buku</h1>
             <ol class="breadcrumb">
-                <li><a href="#"><i class="fas fa-book"></i> Perpustakaan SMKN 1 Sumbawa Besar</a></li>
+                <li><a href="#"><i class="fas fa-book"></i> Perpustakaan SMPN 1 Lenangguar</a></li>
             </ol>
         </section>
 

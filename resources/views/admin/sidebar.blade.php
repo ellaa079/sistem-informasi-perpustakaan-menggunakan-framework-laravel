@@ -2,8 +2,9 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="{{asset('AdminLTE')}}/index3.html" class="brand-link">
-      <img src="{{asset('AdminLTE')}}/dist/img/SMKN 1.png" alt="SMKN 1 Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-      <span class="brand-text font-weight-light">Perpustakaan</span>
+      <img src="{{asset('AdminLTE')}}/dist/img/default_logo_sekolah_pintar.png" alt=" #" class="brand-image img-circle elevation-3" style="opacity: .8">
+      <h6 class="brand-text font-weight-light">Perpustakaan 
+        SMPN 1 LG</h6>
     </a>
 
     <!-- Sidebar -->
@@ -14,7 +15,7 @@
         <img src="{{ asset('AdminLTE/dist/img/user.jpg') }}" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Petugas </a>
+          <a href="#" class="d-block">Petugas Perpustakaan </a>
         </div>
       </div>
 

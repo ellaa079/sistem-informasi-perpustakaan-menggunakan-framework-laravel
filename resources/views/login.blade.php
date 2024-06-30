@@ -10,7 +10,7 @@
         body {
             font-family: Arial, sans-serif;
             font-size: 18px; /* Ukuran font umum */
-            background-image: url('{{ asset("image/tampilan SMKN 1.jpg") }}'); /* Ganti dengan path gambar Anda */
+            background-image: url('{{ asset("image/smplg.jfif") }}'); /* Ganti dengan path gambar Anda */
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -123,9 +123,10 @@
     <div class="login-container">
         <div class="login-box">
             <div class="logo">
-                <img src="{{ asset('image/SMKN 1.png') }}" alt="Logo" class="logo-image">
+                <img src="{{ asset('image/default_logo_sekolah_pintar.png') }}" alt="Logo" class="logo-image">
             </div>
-            <h2>PERPUSTAKAAN</h2>
+            <h2>Perpustakaan 
+                SMPN 1 Lenangguar</h2>
             @if ($errors->any())
                 <div class="alert">
                     <ul>

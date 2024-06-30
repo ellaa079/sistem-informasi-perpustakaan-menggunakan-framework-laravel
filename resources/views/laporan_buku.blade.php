@@ -35,7 +35,7 @@
     </div>
     <div class="container">
         <div class="header text-center">
-            <h5>PERPUSTAKAAN SMKN 1 SUMBAWA</h5>
+            <h5>PERPUSTAKAAN SMPN 1 LENANGGUAR</h5>
             <h6>Laporan Keadaan Buku</h6>
             <p>Tanggal: <span>{{ now()->format('d-m-Y') }}</span></p>
         </div>
